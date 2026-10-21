@@ -1,0 +1,11 @@
+name: Plugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  givecommandstick:
+    description: Donne un bâton de commandement au joueur
+    usage: /givecommandstick
+  ciao:
+    description: Greets the player.
+    usage: /ciao
